@@ -1,0 +1,45 @@
+2023-09-09	17:07:51	69ce0160-b3db-4378-831b-cc6af0534f42	TypeError : fsPromises.readFi is not a function
+2023-09-10	17:02:24	584831d2-e163-40c2-b87d-a030224fc2d5	TypeError: error is not a constructor
+2023-09-10	17:03:50	6c3bba93-e824-4538-b31e-df231bebc2a6	TypeError: error is not a constructor
+2023-09-10	17:03:53	6e65ce08-740d-45f1-bb79-41d996f1030a	TypeError: error is not a constructor
+2023-09-10	17:03:56	d8fe1657-5afe-49b7-b567-450f2bfc1c17	TypeError: error is not a constructor
+2023-09-10	17:04:04	111c0811-7f37-48c5-bc48-378910a1eb2b	TypeError: error is not a constructor
+2023-11-17	18:17:30	fcd0319c-803d-4d0e-b05a-ed32c89c8606	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\default.html'
+2023-11-17	18:17:30	1c550582-fc2b-413a-9499-a4cca5145f06	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:17:40	dc9b028a-0c02-42d8-b836-85c72bcec80f	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\default.html'
+2023-11-17	18:17:40	12ef9d49-0ed3-4846-b31e-7e4e5642e1e2	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:17:59	da39a634-1e6d-44d8-93dd-b28fee898e99	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:17:59	bb2b0032-36d6-4550-9bb0-196b99e3045a	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:18:54	9cfd8760-d99d-41d8-be11-ed27fc521404	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:21:51	2acc3401-4e10-44d2-8a09-dd982bcc0bfc	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:21:52	c754983f-dfb0-45d9-a129-fb6954915189	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:21:57	7b37c713-a365-4785-96c1-da9ad06a756b	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:21:58	e2cbc58a-8ada-4307-96ca-f5f345a3d0dc	Error: ENOENT: no such file or directory, stat 'C:\Users\Faisal Haroon\Desktop\Node.js learning\views\404.html'
+2023-11-17	18:28:16	846d4e90-a544-4e01-9074-61eaf46b5c50	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:28:35	75f5da33-bb75-407c-8e71-05a09e4a1435	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:28:48	df8cc482-e344-4abc-936e-a39da8eafd55	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:28:55	d22d95b0-bf9d-4768-bc38-5c7da4e4d895	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:28:59	35d35fa9-b490-4e8c-9cf4-cc6810edc4a2	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:31:15	f0449b94-e53b-4951-a195-316bb9768a8a	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:33:11	a9b0d704-aaea-47ac-bef9-9bedbc50af1f	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:33:24	6acf25e3-1885-4e8f-8faf-d138369550ef	ReferenceError: rex is not defined
+2023-11-17	18:36:16	7c3218c6-ddc0-44e2-a365-e565e43a79c5	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:40:28	73e82cce-6a4d-4fa0-943e-b674e8cf96b9	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:40:35	b4e2143c-0836-459f-a5a0-6aa1bc7daeac	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:42:58	40176fe8-4612-4ffb-98df-efde5bc58dd0	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:44:04	d2560b94-c29f-445a-8bd5-5ffbd95ff34e	TypeError: Cannot read properties of undefined (reading 'firstname')
+2023-11-17	18:46:39	c4910039-7123-41d3-a43d-69f733f701f0	SyntaxError: Unexpected token " in JSON at position 0
+2023-11-29	13:15:17	7c4a1183-d6fc-44c9-9a31-d4b3b73580cd	ReferenceError: emp is not defined
+2023-12-02	16:46:12	c3ebab25-f4e0-41e7-a300-eaf2faff11cd	SyntaxError: Unexpected token " in JSON at position 0
+2023-12-02	16:48:15	fe65fb18-1f47-4ef8-8372-3b40c0ed0ee0	SyntaxError: Unexpected token " in JSON at position 0
+2023-12-02	16:48:27	2c868e89-3cf6-4ead-8e38-66a3d9a28d5f	SyntaxError: Unexpected token " in JSON at position 0
+2023-12-02	16:50:28	8a2d1d22-3c62-455c-947e-67598e1c49fa	SyntaxError: Unexpected token " in JSON at position 0
+2023-12-02	16:51:53	c4f07807-742a-42f1-9e05-2331d3026a82	SyntaxError: Unexpected token " in JSON at position 0
+2023-12-02	16:52:04	aec09272-7970-4bc4-98ed-88dfa42d61a2	SyntaxError: Unexpected token " in JSON at position 0
+2023-12-02	16:55:45	6c270b71-a0e6-4d0e-807e-eb1eadda2f74	SyntaxError: Unexpected token e in JSON at position 0
+2023-12-02	16:56:19	063b7c50-4a1b-4714-8d9a-a06b6436ef2f	SyntaxError: Unexpected token e in JSON at position 0
+2023-12-02	17:36:18	f4d4b4dd-57cf-480f-ba17-5692dbe27c54	SyntaxError: Unexpected token u in JSON at position 1
+2023-12-02	17:42:22	830b6b84-755b-4c95-8251-11b0a5e15662	TypeError: Cannot set properties of undefined (setting 'firstname')
+2023-12-02	17:42:32	f6a7e7db-5aea-4f41-a40c-50f961532345	TypeError: Cannot set properties of undefined (setting 'firstname')
+2023-12-02	17:43:05	ea84aa9d-1998-44aa-ba7e-78afbbf15346	TypeError: Cannot set properties of undefined (setting 'firstname')
+2023-12-02	17:43:31	42ad6bad-2ca9-4434-bc6d-651177baade6	TypeError: Cannot set properties of undefined (setting 'firstname')
